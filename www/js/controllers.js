@@ -5,7 +5,7 @@ angular.module('starter.controllers', [])
 })
 
   .controller("LoginController", function ($scope, $http, $ionicLoading, $ionicPopup, $location) {
-    console.log("cargando  ....... login");
+    console.log("------s-sss-s-");
     $scope.login = {};
     $scope.verificaUsuario = function () {
       //console.log($scope.login.username);
